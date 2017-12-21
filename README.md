@@ -1,12 +1,13 @@
 # GCxGC-NMF-Classification
-An R code for classifying GCxGC data based on a NMF algorithm
+An R code for classifying GCxGC data using a NMF algorithm
 
 
-A user is requested to locate 2 categorized data in the input folder: 1. GCxGC data (.csv) to make NMF classes, 2. GCxGC data (.csv) to be classified into the prepared NMF class.
-These GCxGC data should be taken by same conditions on GC run and detector.
+A user is requested to locate 2 categorized data in the input folder: 1. GCxGC data (.csv) to make NMF classes, 2. GCxGC data (.csv) of unknown samples to be classified into the prepared NMF class.
+These GCxGC data should be taken by the same conditions on GC run and detector.
 
 
-Open "Just_Run_Me.r" file. Modify "Folder_location", so that it is adjusted for your PC environment.
+Open "Just_Run_Me.r" file. 
+Modify "Folder_location", so that it is adjusted for your PC environment.
 Then, just run the code in R.
 
 
