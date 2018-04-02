@@ -15,7 +15,7 @@ Then, just run the code in R.
 Test data set is involved in this version, therefore, the user can quickly experience how it works.
 
 
-Ref: <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.7b04313">Zushi Y. and Hashimoto S., Direct classification of GC × GC-analyzed complex mixtures using non-negative matrix factorization based feature extraction, Anal. Chem., 2018, 90 (6), pp 3819–3825.</a>
+Ref: <a href="https://pubs.acs.org/doi/10.1021/acs.analchem.7b04313">Zushi Y. and Hashimoto S., Direct classification of GC × GC-analyzed complex mixtures using non-negative matrix factorization based feature extraction, Anal. Chem., 2018, 90, 3819–3825.</a>
 
 <br><br> Author contacts:
 <br>Yasuyuki Zushi, yasuyuki.zushi@gmail.com
